@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<resources>
+    <string name="app_name">FamilyTreeApp</string>
+    <string name="pick_a_file">Dosya Seç</string>
+    <string name="rename">Yeniden Adlandır</string>
+    <string name="confirm">Onayla</string>
+    <string name="cancel">İptal</string>
+    <string name="copy">Kopyala</string>
+    <string name="paste">Yapıştır</string>
+    <string name="parent">Ebeveyn</string>
+    <string name="birth">Doğum</string>
+    <string name="death">Ölüm</string>
+    <string name="reselect_button">Yeni Dosya Seç</string>
+    <string name="close_file_explorer">Gezgini Kapa</string>
+    <string name="search_layout_title">Aile Ağacını Keşfet</string>
+    <string name="search_layout_search_bar">Birini Ara</string>
+    <string name="rename_dialog">Yeni isim: </string>
+    <string name="search_results">için arama sonuçları </string>
+    <string name="person_not_found"> Yaptığınız arama için sonuç bulunamadı.</string>
+    <string name="has_to_have_a_name">Herkesin bir ismi olmalı.</string>
+    <string name="not_a_part_of_family"> ailenizin bir parçası değil.</string>
+    <string name="main_toolbar_text">Aile Ağacını Oluştur</string>
+    <string name="main_instruction">Bu uygulama aile ağacınızı oluşturmak için bir .txt dosyasına ihtiyaç duyar, bu dosyayı
+        hazırlamadıysanız ilk olarak dosyanızı hazırlayın. Eğer hazırda bir dosyanız varsa aşağıdaki butonu kullanarak dosya
+        gezgini açabilirsiniz.</string>
+</resources>
